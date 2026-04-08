@@ -205,7 +205,7 @@ class _DashboardPageState extends State<DashboardPage> {
               const SizedBox(height: 20),
 
               _SectionHeader(
-                title: 'Stok Minimum',
+                title: 'Stok Mencapai Minimum',
                 badgeText:
                 lowStockItems.isNotEmpty ? '${lowStockItems.length} item' : null,
               ),
