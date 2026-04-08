@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223831043342",
+    "project_id": "smart-warehouse-monitori-1d232",
+    "storage_bucket": "smart-warehouse-monitori-1d232.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223831043342:android:5666f4570ba40dc38bbb5f",
+        "android_client_info": {
+          "package_name": "com.example.smart_warehouse_monitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMwA46WTcA7n4Gioqo0XHwi5zPcJYmDu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
